@@ -1,6 +1,6 @@
 //Alan Chan
 //Clock and Hourglass in P5.js
-//Inspired by Daniel ShiffmansCoding Train
+//Inspired by Daniel Shiffman's Coding Train
 
 function setup() {
    createCanvas(800, 400);
