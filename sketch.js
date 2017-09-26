@@ -15,7 +15,6 @@ function setup() {
    let hr = hour();
    let mn = minute();
    let sc = second();
-   var MilSec = millis();
 
    fill(255,255,255);
    noStroke();
